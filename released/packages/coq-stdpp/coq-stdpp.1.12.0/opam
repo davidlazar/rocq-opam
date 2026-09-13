@@ -42,7 +42,7 @@ install: ["./make-package" "stdpp" "install"]
 
 url {
   src:
-    "https://gitlab.mpi-sws.org/iris/stdpp/-/archive/coq-stdpp-1.12.0.tar.gz"
+    "https://github.com/davidlazar/rocq-opam/releases/download/v0/coq-stdpp-1.12.0.tar.gz"
   checksum:
     "sha512=8669bbf7e34775d101ddd10f2d868c1ec66ea3575ae73cbca8fd5abdad3f819bd1b3eb0636d2991a555733b2c91e6babd4cf246d7aef90c33612fa826abf4c64"
 }
